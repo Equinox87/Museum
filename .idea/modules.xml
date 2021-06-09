@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GoogleMapAPIMySQL-master.iml" filepath="$PROJECT_DIR$/.idea/GoogleMapAPIMySQL-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GoogleMapAPIMySQL-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GoogleMapAPIMySQL-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Museum.iml" filepath="$PROJECT_DIR$/.idea/modules/Museum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Museum.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Museum.app.iml" />
     </modules>
   </component>
 </project>
