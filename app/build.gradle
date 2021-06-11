@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion '29.0.2'
     defaultConfig {
-        applicationId "com.dedykuncoro.googlemapapimysql"
+        applicationId "com.uas.museum"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
